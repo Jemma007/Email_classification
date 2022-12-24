@@ -7,3 +7,5 @@ email-classification.ipynb为在kaggle上使用gpu运行结果
 将压缩包解压到data文件夹中即可使用preprocess.py文件生成train.csv, test.csv, valid.csv文件
 
 运行时注意使用torchtext==0.9.0
+
+spacy和其中的'en_core_web_sm'文件使用3.1.0版本
